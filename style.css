@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient( black, grey );
+    background-position: no-repeat;
+    background-attachment: fixed;
+    background-image: url(Hack.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+h1{
+    color: white;
+    font-family: "Press Start 2P", "consolas", "sans-serif" ;
+}
+
+p{
+    background-color: black;
+    color: white;
+    font-family:"consolas", "sans-serif";
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: brown;
+    border-radius: 7px;
+}
+#A3{
+    color: beige;
+}
+#a1{
+    color: beige;
+}
+#b5{
+    color: blanchedalmond;
+}
+
